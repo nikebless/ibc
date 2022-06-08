@@ -34,7 +34,8 @@ pip install \
   tensorflow==2.6.0 \
   keras==2.6.0 \
   tf-agents==0.11.0rc0 \
-  tqdm==4.62.2
+  tqdm==4.62.2 \
+  gym==0.19.0
 ```
 
 (Optional): For Mujoco support, see [`docs/mujoco_setup.md`](docs/mujoco_setup.md).  Recommended to skip it
